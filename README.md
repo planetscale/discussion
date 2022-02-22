@@ -1,4 +1,4 @@
-Welcome to the PlanetScale GitHub Community!
+Welcome to the PlanetScale GitHub Discussion Board!
 
 We're collecting feedback, answering questions and everything else in [Discussions](https://github.com/planetscale/beta/discussions) - join us there.
 
