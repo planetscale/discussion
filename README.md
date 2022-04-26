@@ -1,6 +1,6 @@
 Welcome to the PlanetScale GitHub Discussion Board!
 
-We're collecting feedback, answering questions and everything else in [Discussions](https://github.com/planetscale/beta/discussions) - join us there.
+We're collecting feedback, answering questions and everything else in [Discussions](https://github.com/planetscale/discussion/discussions) - join us there.
 
 To get in touch with our team for more urgent requests, you can reach support [here](https://www.planetscale.com/support), or via the "Send feedback" form in the PlanetScale dashboard. 
 
